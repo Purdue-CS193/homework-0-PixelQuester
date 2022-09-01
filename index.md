@@ -1,4 +1,16 @@
+# **\Andrew's First CS193 Homework**
+
+##Thigs I like
+- Sleep
+- Problem that can be solved
+- Puzzles
+- Video Games
+
 ## Welcome to GitHub Pages
+### This is all wild and I can't wait!
+
+- Make sure to sleep in
+- ZzZ
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
