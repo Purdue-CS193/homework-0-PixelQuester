@@ -1,10 +1,9 @@
-# **\Andrew's First CS193 Homework**
+# **Andrew's First CS193 Homework**
 
-##Thigs I like
-- Sleep
-- Problem that can be solved
-- Puzzles
-- Video Games
+## Things I like about CS193
+- It's informative
+- Problems are fun
+- I can still have time to sleep...
 
 ## Welcome to GitHub Pages
 ### This is all wild and I can't wait!
